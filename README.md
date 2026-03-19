@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anielrussel&stats_format=bytes&layout=donut&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anielrussel&&count_weight=0.5&size_weight=0.5&layout=donut&theme=omni)
